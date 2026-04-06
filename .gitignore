@@ -1,0 +1,17 @@
+# env
+.env
+
+# binaries
+*.exe
+*.out
+*.test
+
+# logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
